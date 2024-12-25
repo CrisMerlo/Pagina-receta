@@ -1,0 +1,63 @@
+body{
+    margin: 20px;
+    background-color: #feea;
+    font-family: sans-serif;
+}
+
+h1{
+    color: #a382a5;
+    text-align: center;
+    font-weight: 100;
+    font-size: 4.2em;
+}
+
+details{
+    box-sizing: border-box;
+    border: 2px solid #a382a5;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+summary{
+    box-sizing: border-box;
+    padding-left: 8px;
+    padding-top: 2px;
+    font-size: 1.6em;
+    color: #a382a5
+}
+
+details{
+    font-size: 1.1em;
+}
+
+.items-ing{
+    font-size: 1.1em;
+    color: #555;
+}
+
+samp{
+    color: #000;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+.items-princ{
+    text-decoration: none;
+    color: #0ddf;   
+}
+
+h2{
+    text-decoration: underline;
+    text-decoration: solid dotted;
+    font-size: 3em;
+    text-align: center;
+    color: #d19cd4;
+}
+
+.ingredientes-pap{
+    margin-bottom: 5px;
+    margin-left: 8px;
+    color: rgba(158, 117, 158, 0.867);
+    font-size: 1.2em;
+    word-spacing: 2px;
+}
